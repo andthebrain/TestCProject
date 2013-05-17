@@ -27,6 +27,9 @@ int main() {
 	// 12:51am
 	// 12:51.2
 
+	// Thursday
+	// 8:56pm
+
 	return 0;
 
 }
