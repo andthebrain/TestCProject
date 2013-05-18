@@ -1,7 +1,7 @@
 // Gah! An empty file; fixed.
 /*
- *
-Hamlet:
+
+Hamlet source: the web.
 
 <Caution: Long dialog... no sleeping>
 HAMLET
