@@ -2,7 +2,7 @@
 /*
 
 Hamlet source: the web (well, a web site).
-This is a play.
+This is a play. It was written by Shakespear.
 
 <Caution: Long dialog... no sleeping>
 HAMLET
