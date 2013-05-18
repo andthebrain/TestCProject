@@ -172,3 +172,6 @@ MARCELLUS
 
 */
 
+void foo() {
+	printf("FOo!");
+}
