@@ -2,6 +2,7 @@
 /*
 
 Hamlet source: the web (well, a web site).
+This is a play.
 
 <Caution: Long dialog... no sleeping>
 HAMLET
