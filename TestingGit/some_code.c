@@ -1,10 +1,10 @@
 // Gah! An empty file; fixed.
 /*
 
---Hamlet-- source: the web (well, a web site).
+Hamlet source: the web (well, a web site).
 This is a play. It was written by Shakespear.
 
---Hamlet--
+HAMLET
 	O, that this too too solid flesh would melt
 		(Body to dew)
 		(i.e, he's hoping to die and become the dew).
@@ -39,36 +39,36 @@ This is a play. It was written by Shakespear.
 	It is not nor it cannot come to good:
 	But break, my heart; for I must hold my tongue.
 
-	Enter Horatio, Marcellus, and BERNARDO
+	Enter HORATIO, MARCELLUS, and BERNARDO
 
-Horatio
+HORATIO
 	Hail to your lordship!
 
---Hamlet--
+HAMLET
 	I am glad to see you well:
 	Horatio,--or I do forget myself.
 
-Horatio
+HORATIO
 	The same, my lord, and your poor servant ever.
 
---Hamlet--
+HAMLET
 	Sir, my good friend; I'll change that name with you:
 	And what make you from Wittenberg, Horatio? Marcellus?
 
-Marcellus
+MARCELLUS
 
 	My good lord--
 
---Hamlet--
+HAMLET
 
 	I am very glad to see you. Good even, sir.
 	But what, in faith, make you from Wittenberg?
 
-Horatio
+HORATIO
 
 	A truant disposition, good my lord.
 
---Hamlet--
+HAMLET
 
 	I would not hear your enemy say so,
 	Nor shall you do mine ear that violence,
@@ -77,20 +77,20 @@ Horatio
 	But what is your affair in Elsinore?
 	We'll teach you to drink deep ere you depart.
 
-Horatio
+HORATIO
 
 	My lord, I came to see your father's funeral.
 
---Hamlet--
+HAMLET
 
 	I pray thee, do not mock me, fellow-student;
 	I think it was to see my mother's wedding.
 
-Horatio
+HORATIO
 
 	Indeed, my lord, it follow'd hard upon.
 
---Hamlet--
+HAMLET
 
 	Thrift, thrift, Horatio! the funeral baked meats
 	Did coldly furnish forth the marriage tables.
@@ -98,51 +98,51 @@ Horatio
 	Or ever I had seen that day, Horatio!
 	My father!--methinks I see my father.
 
-Horatio
+HORATIO
 
 	Where, my lord?
 
---Hamlet--
+HAMLET
 
 	In my mind's eye, Horatio.
 
-Horatio
+HORATIO
 
 	I saw him once; he was a goodly king.
 
---Hamlet--
+HAMLET
 
 	He was a man, take him for all in all,
 	I shall not look upon his like again.
 
-Horatio
+HORATIO
 
 	My lord, I think I saw him yesternight.
 
---Hamlet--
+HAMLET
 
 	Saw? who?
 
-Horatio
+HORATIO
 
 	My lord, the king your father.
 
---Hamlet--
+HAMLET
 
 	The king my father!
 
-Horatio
+HORATIO
 
 	Season your admiration for awhile
 	With an attent ear, till I may deliver,
 	Upon the witness of these gentlemen,
 	This marvel to you.
 
---Hamlet--
+HAMLET
 
 	For God's love, let me hear.
 
-Horatio
+HORATIO
 
 	Two nights together had these gentlemen,
 	Marcellus and Bernardo, on their watch,
@@ -162,13 +162,17 @@ Horatio
 	The apparition comes: I knew your father;
 	These hands are not more like.
 
---Hamlet--
+HAMLET
 
 	But where was this?
 
-Marcellus
+MARCELLUS
 
 	My lord, upon the platform where we watch'd.
 
 */
 
+void foo() {
+	printf("FOo!");
+	printf("Where'd bar go?");
+}
