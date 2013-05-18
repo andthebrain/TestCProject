@@ -7,6 +7,7 @@ This is a play. It was written by Shakespear.
 HAMLET
 	O, that this too too solid flesh would melt
 		(Body to dew)
+		(i.e, he's hoping to die and become the dew).
 	Thaw and resolve itself into a dew!
 	Or that the Everlasting had not fix'd
 	His canon 'gainst self-slaughter! O God! God!
