@@ -4,7 +4,7 @@
 Hamlet source: the web (well, a web site).
 This is a play. It was written by Shakespear.
 
-HAMLET
+Hamlet
 	O, that this too too solid flesh would melt
 		(Body to dew)
 		(i.e, he's hoping to die and become the dew).
@@ -39,36 +39,36 @@ HAMLET
 	It is not nor it cannot come to good:
 	But break, my heart; for I must hold my tongue.
 
-	Enter HORATIO, MARCELLUS, and BERNARDO
+	Enter Horatio, Marcellus, and BERNARDO
 
-HORATIO
+Horatio
 	Hail to your lordship!
 
-HAMLET
+Hamlet
 	I am glad to see you well:
 	Horatio,--or I do forget myself.
 
-HORATIO
+Horatio
 	The same, my lord, and your poor servant ever.
 
-HAMLET
+Hamlet
 	Sir, my good friend; I'll change that name with you:
 	And what make you from Wittenberg, Horatio? Marcellus?
 
-MARCELLUS
+Marcellus
 
 	My good lord--
 
-HAMLET
+Hamlet
 
 	I am very glad to see you. Good even, sir.
 	But what, in faith, make you from Wittenberg?
 
-HORATIO
+Horatio
 
 	A truant disposition, good my lord.
 
-HAMLET
+Hamlet
 
 	I would not hear your enemy say so,
 	Nor shall you do mine ear that violence,
@@ -77,20 +77,20 @@ HAMLET
 	But what is your affair in Elsinore?
 	We'll teach you to drink deep ere you depart.
 
-HORATIO
+Horatio
 
 	My lord, I came to see your father's funeral.
 
-HAMLET
+Hamlet
 
 	I pray thee, do not mock me, fellow-student;
 	I think it was to see my mother's wedding.
 
-HORATIO
+Horatio
 
 	Indeed, my lord, it follow'd hard upon.
 
-HAMLET
+Hamlet
 
 	Thrift, thrift, Horatio! the funeral baked meats
 	Did coldly furnish forth the marriage tables.
@@ -98,51 +98,51 @@ HAMLET
 	Or ever I had seen that day, Horatio!
 	My father!--methinks I see my father.
 
-HORATIO
+Horatio
 
 	Where, my lord?
 
-HAMLET
+Hamlet
 
 	In my mind's eye, Horatio.
 
-HORATIO
+Horatio
 
 	I saw him once; he was a goodly king.
 
-HAMLET
+Hamlet
 
 	He was a man, take him for all in all,
 	I shall not look upon his like again.
 
-HORATIO
+Horatio
 
 	My lord, I think I saw him yesternight.
 
-HAMLET
+Hamlet
 
 	Saw? who?
 
-HORATIO
+Horatio
 
 	My lord, the king your father.
 
-HAMLET
+Hamlet
 
 	The king my father!
 
-HORATIO
+Horatio
 
 	Season your admiration for awhile
 	With an attent ear, till I may deliver,
 	Upon the witness of these gentlemen,
 	This marvel to you.
 
-HAMLET
+Hamlet
 
 	For God's love, let me hear.
 
-HORATIO
+Horatio
 
 	Two nights together had these gentlemen,
 	Marcellus and Bernardo, on their watch,
@@ -162,11 +162,11 @@ HORATIO
 	The apparition comes: I knew your father;
 	These hands are not more like.
 
-HAMLET
+Hamlet
 
 	But where was this?
 
-MARCELLUS
+Marcellus
 
 	My lord, upon the platform where we watch'd.
 
