@@ -2,6 +2,8 @@
 /*
  *
 Hamlet:
+
+<Caution: Long dialog... no sleeping>
 HAMLET
 
     O, that this too too solid flesh would melt
