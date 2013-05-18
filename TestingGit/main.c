@@ -13,23 +13,7 @@
 int main() {
 	printf("Yup, it's main!");
 
-	// File changed.
-	// Change 2
-	// 3-Yup; numbering is amazing.
-	// 4th change
-	// Change 5
-
-
-	// OOGY BOOGY
-	// NExt
-	// 12:25 Change
-	// 12:48am
-	// 12:51am
-	// 12:51.2
-
-	// Thursday
-	// 8:56pm
-
+	printf("multiplication is just addition.");
 	return 0;
 
 }
