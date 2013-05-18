@@ -5,7 +5,6 @@ Hamlet:
 
 <Caution: Long dialog... no sleeping>
 HAMLET
-
     O, that this too too solid flesh would melt
     Thaw and resolve itself into a dew!
     Or that the Everlasting had not fix'd
@@ -41,20 +40,16 @@ HAMLET
     Enter HORATIO, MARCELLUS, and BERNARDO
 
 HORATIO
-
     Hail to your lordship!
 
 HAMLET
-
     I am glad to see you well:
     Horatio,--or I do forget myself.
 
 HORATIO
-
     The same, my lord, and your poor servant ever.
 
 HAMLET
-
     Sir, my good friend; I'll change that name with you:
     And what make you from Wittenberg, Horatio? Marcellus?
 
