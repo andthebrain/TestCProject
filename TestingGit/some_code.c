@@ -1,10 +1,10 @@
 // Gah! An empty file; fixed.
 /*
 
-Hamlet source: the web (well, a web site).
+--Hamlet-- source: the web (well, a web site).
 This is a play. It was written by Shakespear.
 
-Hamlet
+--Hamlet--
 	O, that this too too solid flesh would melt
 		(Body to dew)
 		(i.e, he's hoping to die and become the dew).
@@ -44,14 +44,14 @@ Hamlet
 Horatio
 	Hail to your lordship!
 
-Hamlet
+--Hamlet--
 	I am glad to see you well:
 	Horatio,--or I do forget myself.
 
 Horatio
 	The same, my lord, and your poor servant ever.
 
-Hamlet
+--Hamlet--
 	Sir, my good friend; I'll change that name with you:
 	And what make you from Wittenberg, Horatio? Marcellus?
 
@@ -59,7 +59,7 @@ Marcellus
 
 	My good lord--
 
-Hamlet
+--Hamlet--
 
 	I am very glad to see you. Good even, sir.
 	But what, in faith, make you from Wittenberg?
@@ -68,7 +68,7 @@ Horatio
 
 	A truant disposition, good my lord.
 
-Hamlet
+--Hamlet--
 
 	I would not hear your enemy say so,
 	Nor shall you do mine ear that violence,
@@ -81,7 +81,7 @@ Horatio
 
 	My lord, I came to see your father's funeral.
 
-Hamlet
+--Hamlet--
 
 	I pray thee, do not mock me, fellow-student;
 	I think it was to see my mother's wedding.
@@ -90,7 +90,7 @@ Horatio
 
 	Indeed, my lord, it follow'd hard upon.
 
-Hamlet
+--Hamlet--
 
 	Thrift, thrift, Horatio! the funeral baked meats
 	Did coldly furnish forth the marriage tables.
@@ -102,7 +102,7 @@ Horatio
 
 	Where, my lord?
 
-Hamlet
+--Hamlet--
 
 	In my mind's eye, Horatio.
 
@@ -110,7 +110,7 @@ Horatio
 
 	I saw him once; he was a goodly king.
 
-Hamlet
+--Hamlet--
 
 	He was a man, take him for all in all,
 	I shall not look upon his like again.
@@ -119,7 +119,7 @@ Horatio
 
 	My lord, I think I saw him yesternight.
 
-Hamlet
+--Hamlet--
 
 	Saw? who?
 
@@ -127,7 +127,7 @@ Horatio
 
 	My lord, the king your father.
 
-Hamlet
+--Hamlet--
 
 	The king my father!
 
@@ -138,7 +138,7 @@ Horatio
 	Upon the witness of these gentlemen,
 	This marvel to you.
 
-Hamlet
+--Hamlet--
 
 	For God's love, let me hear.
 
@@ -162,7 +162,7 @@ Horatio
 	The apparition comes: I knew your father;
 	These hands are not more like.
 
-Hamlet
+--Hamlet--
 
 	But where was this?
 
