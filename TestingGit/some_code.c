@@ -4,7 +4,6 @@
 Hamlet source: the web (well, a web site).
 This is a play. It was written by Shakespear.
 
-<Caution: Long dialog... no sleeping>
 HAMLET
 	O, that this too too solid flesh would melt
 	Thaw and resolve itself into a dew!
