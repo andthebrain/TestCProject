@@ -7,6 +7,13 @@ int main() {
 	printf("multiplication is just addition.");
 	printf("(You could use a loop, for example.");
 
+	int myArray[10];
+	dumpArray(myArray);
+
 	return 0;
+
+}
+
+void dumpArray(int arr[]) {
 
 }
