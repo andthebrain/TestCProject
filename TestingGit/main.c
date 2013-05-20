@@ -8,12 +8,12 @@ int main() {
 	printf("(You could use a loop, for example.");
 
 	int myArray[10];
-	dumpArray(myArray);
+	dumpArray(myArray, 10);
 
 	return 0;
 
 }
 
-void dumpArray(int arr[]) {
+void dumpArray(int arr[], int size) {
 
 }
